@@ -8,9 +8,6 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 
-
-
-
 if __name__ == '__main__':
     links = process_website()
 
