@@ -55,15 +55,6 @@ def get_links(driver):
         all_links.append(my_href.get_attribute("href"))
     return all_links
 
-#Попытка вытащить даты
-# def get_date(driver):
-#    all_dates = []
-#    dates = driver.find_elements(By.CLASS_NAME, "tass_pkg_marker-JPOGl")
-#    for date in dates:
-#        all_dates.append(date.text.replace('\xa0', ' '))
-#    return all_dates
-
-
 def process_website():
     driver = initialize_driver()
     url = "https://tass.ru/tag/ssha"
