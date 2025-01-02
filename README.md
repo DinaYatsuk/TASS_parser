@@ -73,10 +73,3 @@ The entry point of the application:
 ## Contributing
 
 Contributions are welcome! Feel free to submit a pull request or open an issue for suggestions and improvements.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-
-This `README.md` provides an overview of the project, setup instructions, usage details, and other important information for potential contributors or users.
